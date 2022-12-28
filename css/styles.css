@@ -11,3 +11,10 @@
 .logo-tomato {
   display: none;
 }
+#wa-button {
+    position: fixed !important;
+    margin: 30px;
+    --uk-position-margin-offset: 30px;
+    bottom: 0;
+    right: 0;
+}
