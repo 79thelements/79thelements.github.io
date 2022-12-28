@@ -1,16 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&display=swap');
-.title-h1, h1 {
-  font-family: 'Arvo', serif;
-}
-.list-product .holder-img:before {
-  display: none;
-}
-.list-product .holder-img img {
- position: relative;
-}
-.logo-tomato {
-  display: none;
-}
+.title-h1, h1, .production h2 {font-family: 'Arvo', serif;}
+.list-product .holder-img:before {display: none;}
+.list-product .holder-img img {position: relative;}
+.logo-tomato {display: none;}
 #wa-button {
   position: fixed !important;
   margin: 30px;
@@ -18,6 +10,4 @@
   right: 0;
   z-index: 400;
 }
-div.dishes ul {
-  display: none;
-}
+div.dishes ul {display: none;}
