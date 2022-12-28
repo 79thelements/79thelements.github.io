@@ -4,7 +4,7 @@ function addWaButton() {
   //create new div element
   const waButton = document.createElement("div");
   //set id attribute for new element
-  waButton.setAttribute("id", "wa-container");
+  waButton.setAttribute("id", "wa-button");
 
   waButton.innerHTML = `
     <a href="https://wa.me/529981782310" target="_blanc">
