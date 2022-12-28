@@ -2,9 +2,6 @@
 .title-h1, h1 {
   font-family: 'Arvo', serif;
 }
-.list-product .holder-img:before {
-    padding-top: 66%;
-}
 .list-product .holder-img:has(+ :is(img)):before {
   display: none;
 }
