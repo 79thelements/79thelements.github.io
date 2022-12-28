@@ -21,6 +21,6 @@ function addWaButton() {
     </a>
   `;
 
-  // add the text node to the newly created div
+  //add button to the body
   document.body.appendChild(waButton);
 }
