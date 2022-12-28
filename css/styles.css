@@ -2,7 +2,7 @@
 .title-h1, h1 {
   font-family: 'Arvo', serif;
 }
-.list-product .holder-img:has(+ img):before {
+.list-product .holder-img:before {
   display: none;
 }
 .list-product .holder-img img {
