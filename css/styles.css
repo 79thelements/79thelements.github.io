@@ -18,3 +18,6 @@
   right: 0;
   z-index: 400;
 }
+div.dishes ul li:last-child {
+  display: none;
+}
