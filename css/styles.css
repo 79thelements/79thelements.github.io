@@ -6,13 +6,12 @@
 #header > .container {
   background: #f9f3f1;
   margin: 0;
-  padding: 0 15px;
+  padding: 0 10px;
   max-width: unset;
 }
 #header > .container > .holder-nav {
   width: 100%;
   margin: 0 auto;
-  padding: 0 15px;
   max-width: 1310px;
 }
 .title-h1, h1, .production h2, .title-h4, h4 {font-family: 'Arvo', serif;}
