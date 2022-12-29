@@ -11,3 +11,6 @@
   z-index: 400;
 }
 div.dishes ul {display: none;}
+.production .production-card {
+  filter: none;
+}
