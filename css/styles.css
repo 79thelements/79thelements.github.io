@@ -1,4 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&display=swap');
+#header {
+  background: none;
+  height: auto;
+}
+#header > .container {
+  background: #f9f3f1;
+}
 .title-h1, h1, .production h2, .title-h4, h4 {font-family: 'Arvo', serif;}
 .list-product .holder-img:before {display: none;}
 .list-product .holder-img img {position: relative;}
