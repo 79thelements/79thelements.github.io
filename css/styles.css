@@ -14,6 +14,9 @@
   margin: 0 auto;
   max-width: 1310px;
 }
+#header #nav {
+  padding: 10px 0;
+}
 .title-h1, h1, .production h2, .title-h4, h4 {font-family: 'Arvo', serif;}
 .list-product .holder-img:before {display: none;}
 .list-product .holder-img img {position: relative;}
