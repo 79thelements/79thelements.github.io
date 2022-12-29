@@ -14,7 +14,7 @@ div.dishes ul {display: none;}
 .production .production-card {
   filter: none;
 }
-@media (min-width: 1200px) {
+@media (min-width: 960px) {
   .production .production-card {
     padding: 0 10px;
     margin-bottom: 20px;
