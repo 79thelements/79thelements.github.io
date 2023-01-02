@@ -23,9 +23,8 @@
 .logo-tomato {display: none;}
 #wa-button {
   position: fixed !important;
-  margin: 30px;
-  bottom: 0;
-  right: 0;
+  bottom: 66px;
+  left: 18px;
   z-index: 400;
 }
 div.dishes ul {display: none;}
